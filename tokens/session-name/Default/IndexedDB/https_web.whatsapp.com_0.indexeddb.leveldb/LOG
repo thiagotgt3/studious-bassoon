@@ -1,0 +1,25 @@
+2023/09/03-19:15:00.042 6b81 Creating DB /workspaces/studious-bassoon/tokens/session-name/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/09/03-19:15:00.087 6b81 Reusing MANIFEST /workspaces/studious-bassoon/tokens/session-name/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/03-19:15:00.206 6b79 Level-0 table #5: started
+2023/09/03-19:15:00.223 6b79 Level-0 table #5: 7374 bytes OK
+2023/09/03-19:15:00.270 6b79 Delete type=0 #3
+2023/09/03-19:15:00.270 6b79 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/09/03-19:15:01.709 6b81 Level-0 table #7: started
+2023/09/03-19:15:01.725 6b81 Level-0 table #7: 22248 bytes OK
+2023/09/03-19:15:01.746 6b81 Delete type=0 #4
+2023/09/03-19:15:01.747 6b81 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/09/03-19:15:49.346 6b79 Level-0 table #9: started
+2023/09/03-19:15:49.448 6b79 Level-0 table #9: 1158732 bytes OK
+2023/09/03-19:15:49.474 6b79 Delete type=0 #6
+2023/09/03-19:15:50.129 6b81 Compacting 1@0 + 1@1 files
+2023/09/03-19:15:50.219 6b81 Generated table #10@0: 30155 keys, 699066 bytes
+2023/09/03-19:15:50.219 6b81 Compacted 1@0 + 1@1 files => 699066 bytes
+2023/09/03-19:15:50.244 6b81 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/03-19:20:53.410 78de Compacting 1@1 + 1@2 files
+2023/09/03-19:20:53.460 78de Generated table #11@1: 12717 keys, 555246 bytes
+2023/09/03-19:20:53.460 78de Compacted 1@1 + 1@2 files => 555246 bytes
+2023/09/03-19:20:53.487 78de compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/03-19:20:53.487 78de Delete type=2 #5
+2023/09/03-19:20:53.487 78de Delete type=2 #7
+2023/09/03-19:20:53.487 78de Delete type=2 #10
+2023/09/03-19:20:53.487 78de Delete type=2 #9
